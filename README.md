@@ -24,8 +24,7 @@ Creación del contenedor
 ![alt text](images/image-1.png)
 
 Revisión de que el programa corre
-
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Script de Automatización
 ![alt text](image.png)
@@ -39,7 +38,8 @@ Revisión de que el programa corre
 
 
 ## Mejoras Futuras
-
+agregar seguridad
+agregar mayores excepciones
 ## Instrucciones para Ejecutar
 Dar permisos para ejecutar el .sh y correrlo
 ![alt text](images/image-4.png)
